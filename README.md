@@ -1,2 +1,2 @@
-# Piscine of 2022
+Piscine of 2022
  
