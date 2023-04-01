@@ -2,6 +2,13 @@
 
 This repository contains coding developed at [1337](https://www.1337.ma/) C bootcamp (also known as `Piscine`), from 22/08/2022 to 15/09/2022.
 
+<div align="center">
+
+[![zelhajou's 42 stats](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+</div>
+
+
 ## 🗣️ About 42
 
 	42 is a global education initiative that proposes a new way of learning technology: no teachers,
@@ -42,3 +49,19 @@ This repository contains coding developed at [1337](https://www.1337.ma/) C boot
 		The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
 		they want, which demands excellent time management skills and resiliency for not
 		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
+
+## Curriculum
+
+The table below presents the C Piscine's curriculum in chronological order in which it was completed by me - order of completed subjects and corresponding attained level may vary among students.
+
+|#	|SUBJECT			|LANGUAGE	|STATUS									|
+|:-:	|:--				|:-:		|--:							 		|
+|00	|[Shell 00](./SHELL/shell00)	|Shell		|[![zelhajou's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2737771)](https://github.com/JaeSeoKim/badge42)		|
+|01	|[Shell 01](./SHELL/shell01)	|Shell		|[![zelhajou's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2742042)](https://github.com/JaeSeoKim/badge42)		|
+|02	|C Exam 00	|C		|[![zelhajou's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2742108)](https://github.com/JaeSeoKim/badge42)		|
+|03	|[C 00](./C/C00)	|C		| [![zelhajou's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2744842)](https://github.com/JaeSeoKim/badge42)		|
+|04	|[C 00](./C/C01)	|C		| [![zelhajou's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2750388)](https://github.com/JaeSeoKim/badge42)		|
+|05	|[C Rush 00](./C/rush01)	|C		|[![zelhajou's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2742050)](https://github.com/JaeSeoKim/badge42)		|
+|06	|[C 00](./C/C02)	|C		|[![zelhajou's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2752307)](https://github.com/JaeSeoKim/badge42)	|
+|07	|C Exam 01	|C		|[![zelhajou's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2759780)](https://github.com/JaeSeoKim/badge42)		|
+
