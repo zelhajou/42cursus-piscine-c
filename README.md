@@ -73,3 +73,6 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 |14	|[C 08](./C/C08)		|C		|[![zelhajou's 42 C Piscine C 08 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2777128)](https://github.com/JaeSeoKim/badge42)		|
 |15	|C Final Exam			|C		|[![zelhajou's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2785590)](https://github.com/JaeSeoKim/badge42)	|
 
+
+![holygraph](https://github.com/zakelh6/42Piscine-C/blob/main/psc.png)
+
