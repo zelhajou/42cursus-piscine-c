@@ -58,14 +58,18 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 |:-:	|:--				|:-:		|--:							 		|
 |00	|[Shell 00](./SHELL/shell00)	|Shell		|[![zelhajou's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2737771)](https://github.com/JaeSeoKim/badge42)		|
 |01	|[Shell 01](./SHELL/shell01)	|Shell		|[![zelhajou's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2742042)](https://github.com/JaeSeoKim/badge42)		|
-|02	|C Exam 00	|C		|[![zelhajou's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2742108)](https://github.com/JaeSeoKim/badge42)		|
-|03	|[C 00](./C/C00)	|C		| [![zelhajou's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2744842)](https://github.com/JaeSeoKim/badge42)		|
-|04	|[C 01](./C/C01)	|C		| [![zelhajou's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2750388)](https://github.com/JaeSeoKim/badge42)		|
+|02	|C Exam 00			|C		|[![zelhajou's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2742108)](https://github.com/JaeSeoKim/badge42)		|
+|03	|[C 00](./C/C00)		|C		|[![zelhajou's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2744842)](https://github.com/JaeSeoKim/badge42)		|
+|04	|[C 01](./C/C01)		|C		|[![zelhajou's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2750388)](https://github.com/JaeSeoKim/badge42)		|
 |05	|[C Rush 00](./C/rush01)	|C		|[![zelhajou's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2742050)](https://github.com/JaeSeoKim/badge42)		|
-|06	|[C 02](./C/C02)	|C		|[![zelhajou's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2752307)](https://github.com/JaeSeoKim/badge42)	|
-|07	|C Exam 01	|C		|[![zelhajou's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2759780)](https://github.com/JaeSeoKim/badge42)		|
-|08	|[C 03](./C/C03)	|C		|[![zelhajou's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2756584)](https://github.com/JaeSeoKim/badge42)	|
-|09	|[C 04](./C/C04)	|C		| [![zelhajou's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2764507)](https://github.com/JaeSeoKim/badge42)	|
-|10	|[C 05](./C/C05)	|C		| [![zelhajou's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2769065)](https://github.com/JaeSeoKim/badge42)	|
-|11	|C Exam 02	|C		|[![zelhajou's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2771829)](https://github.com/JaeSeoKim/badge42)	|
+|06	|[C 02](./C/C02)		|C		|[![zelhajou's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2752307)](https://github.com/JaeSeoKim/badge42)		|
+|07	|C Exam 01			|C		|[![zelhajou's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2759780)](https://github.com/JaeSeoKim/badge42)		|
+|08	|[C 03](./C/C03)		|C		|[![zelhajou's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2756584)](https://github.com/JaeSeoKim/badge42)		|
+|09	|[C 04](./C/C04)		|C		|[![zelhajou's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2764507)](https://github.com/JaeSeoKim/badge42)		|
+|10	|[C 05](./C/C05)		|C		|[![zelhajou's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2769065)](https://github.com/JaeSeoKim/badge42)		|
+|11	|C Exam 02			|C		|[![zelhajou's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2771829)](https://github.com/JaeSeoKim/badge42)		|
+|12	|[C 06](./C/C06)		|C		|[![zelhajou's 42 C Piscine C 06 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2767356)](https://github.com/JaeSeoKim/badge42)		|
+|13	|[C 07](./C/C07)		|C		|[![zelhajou's 42 C Piscine C 07 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2772280)](https://github.com/JaeSeoKim/badge42)		|
+|14	|[C 08](./C/C08)		|C		|[![zelhajou's 42 C Piscine C 08 Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2777128)](https://github.com/JaeSeoKim/badge42)		|
+|15	|C Final Exam			|C		|[![zelhajou's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2785590)](https://github.com/JaeSeoKim/badge42)	|
 
