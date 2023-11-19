@@ -1,15 +1,10 @@
 # C Piscine @ 1337
+![42_piscine_banner_new](https://github.com/zelhajou/42Piscine-C/assets/39954629/10d5f727-214e-43b0-9e9f-66a07ff06089)
 
 This repository contains coding developed at [1337](https://www.1337.ma/) C bootcamp (also known as `Piscine`), from 22/08/2022 to 15/09/2022.
 
-<div align="center">
 
-[![zelhajou's 42 stats](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
-</div>
-
-
-## 🗣️ About 42
+## About 42
 
 	42 is a global education initiative that proposes a new way of learning technology: no teachers,
 	no classrooms, students learning from their fellow students (peer to peer learning), with a
@@ -19,7 +14,7 @@ This repository contains coding developed at [1337](https://www.1337.ma/) C boot
   
   ## Skills developed at C Piscine
 
-### 🛠️ Hard-skills
+### Hard-skills
 	# C Language
 		The primary language learned at the 42's Piscine is C: dealing with variables,
 		pointers, memory allocation, macros, as well as creating functions and programs,
@@ -50,7 +45,7 @@ This repository contains coding developed at [1337](https://www.1337.ma/) C boot
 		they want, which demands excellent time management skills and resiliency for not
 		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
 
-## Curriculum
+## PROJECTS
 
 The table below presents the C Piscine's curriculum in chronological order in which it was completed by me - order of completed subjects and corresponding attained level may vary among students.
 
