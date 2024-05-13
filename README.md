@@ -1,5 +1,4 @@
 # C Piscine @ 1337
-![42_piscine_banner_new](https://github.com/zelhajou/42Piscine-C/assets/39954629/10d5f727-214e-43b0-9e9f-66a07ff06089)
 
 This repository contains coding developed at [1337](https://www.1337.ma/) C bootcamp (also known as `Piscine`), from 22/08/2022 to 15/09/2022.
 
