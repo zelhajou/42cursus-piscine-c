@@ -7,7 +7,7 @@ This repository contains coding developed at [1337](https://www.1337.ma/) C boot
 The table below presents the C Piscine's curriculum in chronological order in which it was completed by me - order of completed subjects and corresponding attained level may vary among students.
 
 |#	|SUBJECT			|LANGUAGE	|STATUS									|
-|:-:	|:--				|:-:		|--:							 		|
+|:-:	|:--				|-		|--							 		|
 |00	|[Shell 00](./SHELL/shell00)	|Shell		| ✅ 100%	|
 |01	|[Shell 01](./SHELL/shell01)	|Shell		| ✅ 70%	|
 |02	|C Exam 00			|C		| ✅ 64%	|
