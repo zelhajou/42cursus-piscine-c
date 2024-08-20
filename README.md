@@ -11,7 +11,7 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 |00	|[Shell 00](./Shell%20and%20Command%20Line/shell00)	|Shell		| ✅ 100%	|
 |01	|[Shell 01](./Shell%20and%20Command%20Line/shell01)	|Shell		| ✅ 70%	|
 |02	|C Exam 00			|C		| ✅ 64%	|
-|03	|[C 00](./C/C00)		|C		| ✅ 85%	|
+|03	|[C 00](./C/C%20Piscine/C00)		|C		| ✅ 85%	|
 |04	|[C 01](./C/C01)		|C		| ✅ 100%	|
 |05	|[C Rush 00](./C/rush01)	|C		| ❌ 58%	|
 |06	|[C 02](./C/C02)		|C		| ✅ 75%	|
