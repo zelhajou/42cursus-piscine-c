@@ -8,8 +8,8 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 
 |#	|SUBJECT			|LANGUAGE	|STATUS									|
 |:-:	|:--				|-		|--							 		|
-|00	|[Shell 00](./SHELL/shell00)	|Shell		| ✅ 100%	|
-|01	|[Shell 01](./SHELL/shell01)	|Shell		| ✅ 70%	|
+|00	|[Shell 00](./Shell%20and%20Command%20Line/shell00)	|Shell		| ✅ 100%	|
+|01	|[Shell 01](./Shell%20and%20Command%20Line/shell01)	|Shell		| ✅ 70%	|
 |02	|C Exam 00			|C		| ✅ 64%	|
 |03	|[C 00](./C/C00)		|C		| ✅ 85%	|
 |04	|[C 01](./C/C01)		|C		| ✅ 100%	|
